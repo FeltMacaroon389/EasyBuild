@@ -9,7 +9,6 @@ for %%f in (*.py) do (
     del %%~nf.spec
     ren dist Built_EXE
     cd Built_EXE
-    ren !filename!.exe PyinstallerFile.exe
     cd ..
 )
 
