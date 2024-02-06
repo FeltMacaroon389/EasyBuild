@@ -9,8 +9,10 @@ pip3 install pyinstaller
 ```
 <p>Download the "build.bat" file.</p>
 <p>Create a new directory/folder.</p>
-<p>Move the "build.bat" file into that folder, along with your python script.</p>
+<p>Move the "build.bat" file into that directory, along with your python script.</p>
 <p>"build.bat" will automatically recognize the .py file.</p>
+<p>If you want an icon move the .ico file into the that directory.<p>
+<p>"build.bat" will automatically recognize the .ico file.</p>
 <p></p>Make sure to ONLY include ONE .py file in the root project directory!</p>
 <p> </p>
 <p>Run the "build.bat" file from the file manager, or the terminal.</p>
