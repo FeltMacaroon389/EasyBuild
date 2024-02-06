@@ -14,4 +14,4 @@ pip3 install pyinstaller
 <p></p>Make sure to ONLY include ONE .py file in the root project directory!</p>
 <p> </p>
 <p>Run the "build.bat" file from the file manager, or the terminal.</p>
-<p>The executable will be located in the directory "Built-EXE"</p>
+<p>The executable will be located in the directory "Built_EXE"</p>
