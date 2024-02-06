@@ -3,12 +3,12 @@
 
 <h3>Usage:</h3>
 
-Install PyInstaller:
+Make sure you have PyInstaller installed:
 ```
 pip3 install pyinstaller
 ```
 <p>Download the "build.bat" file.</p>
-<p>Create a new direcotry/folder.</p>
+<p>Create a new directory/folder.</p>
 <p>Move the "build.bat" file into that folder, along with your python script.</p>
 <p>"build.bat" will automatically recognize the .py file.</p>
 <p></p>Make sure to ONLY include ONE .py file in the root project directory!</p>
